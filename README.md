@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+20 April 2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+The project analyses the bikeshare rentals across the cities of Chicago, New York City and Washington.
 
 ### Files used
-Include the files used
+chicago.csv, new_york_city.csv ,washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity
 
