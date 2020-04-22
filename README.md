@@ -15,3 +15,6 @@ Udacity
 
 ### Running the project to analyse the data
 The user first chooses the city for which he wants to the analyse the data, then he chooses the month and day of the week for which the data is required to be analysed. There is also an option to choose all months and days of the week. There is also on option given to the user if he wants to see the raw data.
+
+### The output of the project
+The project runs to display the most frequent times of tavel, most popular stations and trip,trip duration and the user stats of the chosen city for the chosen month and day of the week.
